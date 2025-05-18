@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="cz">
+  <head>
+    
+    <meta charset="windows-1250">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+    
+    <title> Prace z IJA abych nepropadl  </title>
+    <link rel="icon" type="image/x-icon" href="https://media.wired.com/photos/64e8dfe4cedb032afb4ceccd/master/w_1920,c_limit/Donald-Trump-Mugshot-Depth-Of-Field-Culture-1621335357.jpg">
+    
+    
+    
+    
+    <style>
+    
+     h1{font-size:350%;
+    margin: 50px;
+    position:center;
+    text-align: center;
+    color:#ffffff
+    }
+    
+    
+     h4{font-size:350%;
+    margin: 50px;
+    position:center;
+    text-align: center;
+    color:#0000ff
+    }
+    
+    h3{font-size:350%;
+    margin: 50px;
+    position:center;
+    text-align: center;
+    color:#ff0000
+    }
+    
+    .obsah{padding:50px;
+    
+    }
+    
+    table, th, td {
+        border:1px solid black;
+        }
+    
+    body{
+    background-color:	 #ff3333
+    
+    }
+    
+    .pomoc{
+    background-color:#809fff;
+    width:80%;
+    left:10%;
+    position:relative;  
+    margin-top:40px;
+     margin-bottom:40px;
+    border: 4px solid #ffffff;
+    }
+    
+.konecprosim {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.konecprosim a {
+  display: inline-block;
+  margin: 0 10px;
+  padding: 10px 20px;
+  border: 2px solid #ffffff;
+  border-radius: 6px;
+  text-decoration: none;
+  background-color:#809fff;
+  color: #000000;
+  font-weight: bold;
+  transition: background-color 0.3s, color 0.3s;
+    }
+    
+    
+    .negr {
+     display: flex;
+    }
+    
+    .negr > div {
+     width:40%;
+     
+    }
+    
+    .bagr:hover {
+    transform: scale(1.2)
+    }
+    
+    
+    p{
+    font-size:120%;
+    }
+    
+    
+    a:hover {
+    background-color: yellow;
+    font-size: 18px;
+    }
+  
+    img:hover{
+    transform: scale(1.2    )
+    }
+    
+    
+    .container {
+      display: flex;
+      align-items: center; /* vertical alignment */
+      justify-content: space-between;
+      padding: 20px;
+    }
+
+    .text {
+      flex: 1;
+      padding-right: 20px;
+    }
+
+    .image {
+      flex: 1;
+    }
+
+    .image  img {
+      max-width: 100%; /* scales image down if needed */
+      height: 300px;
+      width: 500px;
+    }
+    
+    .trump{
+      flex: 1;
+    }
+
+    .trump >  img {
+      max-width: 100%; /* scales image down if needed */
+      height: auto ;
+      width:405px;
+      
+    
+    
+    
+    
+    
+    </style>
+  </head>
+  <body>
+  
+  
+  <div class="konecprosim">
+
+<a href="file:///C:/Users/filip/OneDrive/Plocha/Trump%20or%20dictator.html">Trump or Dictator</a>
+<a href="https://necyklopedie.org/wiki/Donald_Trump">Wiki</a>
+<a href="https://www.youtube.com/watch?v=Zph7YXfjMhg">YMCA</a>
+<a href="https://www.youtube.com/watch?v=u_aLESDql1U">Billions and billions</a>
+
+
+
+</div>
+  
+  
+  
+  <div class="pomoc">
+  
+
+  <div class="container">
+  
+  
+      <h4 font-size="350%"; margin= "50px"; position="center"; text-align= "center"; color="#ff0000";>     Donald </h4>
+      <h1 font-size="350%"; margin= "50px"; position="center"; text-align= "center"; color="#ff0000"> J. </h1>
+      <h3 font-size="350%"; margin= "50px"; position="center"; text-align= "center"; color="#ff0000">Trump</h3>
+        
+ 
+    
+    <div class="trump">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2kyeHg2Zmp2cXV6M2QzM3Zhc2FhdDgzbzg2azYyYXFvbWsyNWtkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26FAMbSfNaxcAdj9DQ/giphy.gif" alt="Dancing mr Trump">
+    </div>
+    
+</div>
+  
+  <br>
+  <hr color="black">
+  <hr color="black">
+  
+
+    
+    
+    <div class="obsah">
+    <h2>Život v mládí</h2>
+    <p>Donald John Trump, narodil se 14. června 1946 v newyorském Queensu – čtvrti, kterou by později rád zboural a přestavěl na hotel s vlastním jménem. Syn realitního magnáta Freda Trumpa vyrůstal v domě, kde skromnost byla považována za slabost a zrcadla byla pravděpodobně na všech stěnách. Ve škole ho prý označovali za neposedného, a tak ho rodiče poslali na vojenskou akademii, kde si osvojil disciplínu, uniformy a patrně i lásku ke křiklavým čepicím s nápisy. </p>           
+<br>
+<hr>
+    
+    
+     <div class="container">
+    <div class="text">
+      <h2>Začátek kariéry</h2>
+    <p> V dospělosti Donald převzal otcovu realitní firmu a začal ji přetvářet podle svých představ. Přidal mramor, přidal zlato, přidal jméno TRUMP na každou volnou plochu. Brzy to nebyly jen budovy – Trump se stal značkou: od hotelů přes golfová hřiště, vodu v lahvích, steaky, letadla, vlastní univerzitu (která skončila žalobami) až po deskovou hru „Trump: The Game“ – kde je cílem vydělat peníze a ignorovat pravidla. Symbolický, že?   </p>
+    </div>
+    <div class="image">
+      <img src="https://cf.geekdo-images.com/Z2554vyl_R3BooAmi1IaWw__imagepage/img/U31x0YOmo00Dd0xOnjMldZ4Y-iA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1175306.jpg" alt="Trump: THE GAME">
+    </div>
+  </div>
+
+
+
+<hr>
+
+
+     <h2>V záři reflektorů</h2>
+   <p> V roce 2004 se dostal na obrazovky v reality show The Apprentice, kde týdně vyhazoval lidi ze své kanceláře větou „You’re fired!“ (Jste vyhozen!). Tím si získal srdce části Ameriky, která miluje tvrdé šéfy, a pravděpodobně i spoustu lidí, kteří si mysleli, že by prezident měl být jako televizní soutěž – jen s více vlajkami.        </p>
+<br>
+<hr>
+
+
+ <div class="container">
+    <div class="text">
+      <h2>Sjez po eskalátorech</h2>
+         <p> A pak přišel rok 2015. Trump sjel zlatým eskalátorem (protože samozřejmě že měl zlatý eskalátor) a oznámil, že kandiduje na prezidenta. Lidé se smáli. A on jim to neodpustil – a vyhrál. V roce 2016 porazil Hillary Clintonovou, přičemž získal menšinu hlasů voličů, ale většinu volitelů – což byla jedna z mnoha věcí, které pak označoval za „největší vítězství všech dob“.       </p>
+    </div>
+    <div class="image">
+      <img src="https://miro.medium.com/v2/resize:fit:1280/1*cXlPle9zsYkSqvytp5S1oQ.gif" alt="Trump sliding down a escalator">
+    </div>
+  </div>
+
+
+
+<hr>
+
+ 
+    <h2>Trump prezidentem!!     </h2>
+   <p> Trumpův pobyt v Bílém domě (2017–2021) byl jako čtyři sezóny velmi chaotické televizní show: zeď na hranici s Mexikem, která většinou zůstala na papíře; obchodní války, které se mu částečně vrátily jako bumerang; nekonečné tweety psané ve 3 ráno s interpunkcí podle momentální nálady. Během pandemie COVID-19 doporučil Američanům, že možná pomůže injekčně si aplikovat dezinfekci – což vyvolalo kolektivní šok i mezi výrobci čisticích prostředků.      </p>
+<br>
+<hr>
+
+ <div class="container">
+    <div class="text">
+      <h2>Dvojtý impeachment</h2>
+   <p> Byl dvakrát impeachován – poprvé za to, že chtěl vydírat Ukrajinu, podruhé za to, že podnítil dav k útoku na Kapitol 6. ledna 2021. Dostal tak zápis do historie jako první prezident, který byl obžalován dvakrát a přesto nikdy nepřestal tvrdit, že je nejlepší prezident v dějinách lidstva.     </p>
+    </div>
+    <div class="image">
+      <img src="https://cdn.cnn.com/cnnnext/dam/assets/191210115607-20191210-impeachment-articles-trump-graphic-super-tease.jpg" alt="Trump impeachment">
+    </div>
+  </div>
+
+
+<hr>
+    <h2>Trumpův pád    </h2>
+   <p> Po prohře v roce 2020 s Joem Bidenem Trump trval na tom, že volby byly „ukradené“. Zatímco právníci padali jeden po druhém jako špatně postavené domina, Trump se dál objímal s konspiračními teoriemi. Mezitím se hromadily právní potíže: obvinění z finančních podvodů, uchovávání tajných dokumentů na místech jako je sklad vedle bazénu, a samozřejmě věčné otázky kolem jeho daní (které prý byly „tak složité, že je ani účetní nechápe“).       </p>
+<br>
+<hr>
+
+ <div class="container">
+    <div class="text">
+      <h2>Resuscitace kampaně</h2>
+<p>A tak jsme tu znovu: Donald Trump, navzdory soudům, skandálům, podcastům i parodiím, se vrátil do Bílého domu jako by to byla další série jeho vlastní show — „Prezident 2: Ještě tvrdší, ještě oranžovější“. Jeho návrat doprovázela exploze červených čepic, Twitter opět žije a tiskové konference opět připomínají stand-up vystoupení.
+
+Spojené státy vedou oficiální zahraniční politiku přes CAPS LOCK a gify s orlem.
+
+Vláda běží na improvizaci, náhledy zpravodajských služeb nahrazují memy („They’re eating the dogs! And Biden did nothing!“), a tiskový mluvčí rezignoval po dvou dnech poté, co byl nucen vysvětlit Trumpovo tvrzení, že „větrné turbíny způsobují deprese u orlů a taky možná rakovinu“.
+
+Ať už tento druhý Trumpův termín skončí jakkoliv, jedno je jisté: bude to sledovat celý svět – se směsicí fascinace, zděšení a popcornu v ruce. Historici si připravují prášky, satirici děkují vesmíru, a internet? Internet žije – v nekonečné smyčce "<a href="https://cs.wikipedia.org/wiki/Covfefe">covfefe</a>"</p>    </div>
+    <div class="image">
+      <img src="https://i.pinimg.com/736x/65/88/98/658898ecfd86790810b679a77bd49767.jpg" alt="FREEEEEEEDOM">
+    </div>
+  </div>
+<br><hr>
+
+
+    <h2>Nevim co dat za nadpis, uz me boli hlava   </h2>
+   <p> Přesto všechno (nebo právě kvůli tomu) zůstává Donald Trump politickým fenoménem. Pro jedny mesiáš v červené čepici, pro druhé karikatura sebe sama, pro svět nevyčerpatelný zdroj titulků a memes. Jeho účes, jeho oranžový odstín, jeho neustálé superlativy („nejlepší“, „největší“, „nikdo to nedělá lépe“) – to vše je dnes součástí moderní popkultury.        </p>
+<br>
+
+   <p> A tak zůstává otázka: Je Donald Trump obchodní génius, mistr sebeprezentace, nebo jen velmi hlasitý muž se zálibou v zrcadlech a vlastních fotkách? Odpověď nejspíš závisí na tom, koho se zeptáte. Ale jedno je jisté – svět už nikdy nebude stejný, jako byl před jeho zlatým sjezdem do politiky.     </p>
+    </div>
+    
+    
+ <br><br><br> <br><br><br>
+    <h2>Nejnovější prezidenti USA:</h2>
+    <div class="negr">
+<div style="background-color:#FFF4A3;"; class="bagr";>
+  <h2>Donald Trump (2017–2021)</h2>
+  <p>45. prezident </p>
+  <p>Republikán, podnikatel a mediální osobnost.</p>
+</div>
+
+<div style="background-color:#FFC0C7;"class="bagr">
+  <h2>Joe Biden (2021–2025)</h2>
+  <p>46. prezident</p>
+  <p>Demokrat, bývalý viceprezident Baracka Obamy.</p>
+</div>
+
+<div style="background-color:#D9EEE1; width:50%; left:25%"; class="bagr" >
+  <h2>Donald Trump (2025-přitomnost)</h2>
+  <p>47. prezident</p>
+  <p>Druhý prezident v historii, který slouží dvě nesouvislé funkční období </p>
+</div>
+    </div>
+<br><br<br<br<br>
+<h2>Trumpovi blízcí (bývalí) zaměstnanci ukazující do publika na diváky: </h2>
+<table>
+  <tr>
+    <td>Elon Musk</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/en/e/ea/Elon_Musk_gesture.gif"; width="200px"; height="200px"></td>
+  </tr>
+  <tr>
+    <td>Steve Bannon</td>
+    <td><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_avif,q_auto:eco,dpr_2/rockcms/2025-02/250221-steve-bannon-lm-12052-b6c0a9.jpg"; width="200px"; height="200px"></td>
+  </tr>
+</table>
+
+
+
+
+    <p>Asi se zabiju :(</p>
+    
+
+<hr>
+
+
+
+
+
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+
+
+
+
+
+
+<hr>
+<img src=https://www.livemint.com/lm-img/img/2025/01/20/600x338/Trump_TikTok_1737356787754_1737356797966.jpg>
+
+<img src= "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2kyeHg2Zmp2cXV6M2QzM3Zhc2FhdDgzbzg2azYyYXFvbWsyNWtkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26FAMbSfNaxcAdj9DQ/giphy.gif" ;     width="900" ; height="400"           >
+
+
+
+
+
+</div>
+
+
+
+
+
+
+  </body>
+</html>
+
